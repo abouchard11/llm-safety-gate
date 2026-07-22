@@ -1,0 +1,37 @@
+{
+  "name": "llm-safety-gate",
+  "version": "1.0.0",
+  "description": "Fail-closed content-safety gate for LLM apps: majority-vote classification, parse-noise vs block-signal discrimination, per-item graceful degradation, and publish planning. Classifier-agnostic, zero dependencies.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Alex Bouchard (MidnightDev)",
+  "keywords": [
+    "llm",
+    "safety",
+    "content-safety",
+    "fail-closed",
+    "moderation",
+    "guardrails",
+    "majority-vote",
+    "trust-and-safety"
+  ],
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src",
+    "!src/__tests__",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.9"
+  }
+}
