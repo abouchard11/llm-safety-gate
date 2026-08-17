@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "llm-safety-gate"
+abstract: >-
+  Fail-closed content safety for LLM applications: majority-vote classification, a
+  refusal-versus-noise taxonomy, and per-item publish planning. Classifier-agnostic with
+  zero runtime dependencies.
+authors:
+  - family-names: "Bouchard"
+    given-names: "Alex"
+    email: "alex@midnightdev.dev"
+    affiliation: "MidnightDev"
+    website: "https://midnightdev.dev"
+type: software
+repository-code: "https://github.com/abouchard11/llm-safety-gate"
+url: "https://github.com/abouchard11/llm-safety-gate"
+license: MIT
+version: 1.0.0
+date-released: 2026-07-22
+keywords:
+  - "llm"
+  - "content-safety"
+  - "guardrails"
+  - "fail-closed"
+  - "classification"
