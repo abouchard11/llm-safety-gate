@@ -122,3 +122,8 @@ Node 18+.
 ## License
 
 MIT
+
+## Related
+
+- [yapoleons-court](https://github.com/abouchard11/yapoleons-court) — shipped game that needs this fail-closed posture
+- [graphiti-neo4j-ops](https://github.com/abouchard11/graphiti-neo4j-ops) — fail-closed ops for the Graphiti store
