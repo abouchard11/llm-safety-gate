@@ -119,10 +119,9 @@ Node 18+.
 - `planPublish(flags, { primaryIndex = 0, minItems = 3 })` →
   `{ok, keptIdx, dropped, primaryFlagged, promotedFrom}`
 
-## License
+## Rights
 
-MIT
-
+**Proprietary — all rights reserved. No license is granted.** See [LICENSE](LICENSE).
 ## Related
 
 - [yapoleons-court](https://github.com/abouchard11/yapoleons-court) — shipped game that needs this fail-closed posture
