@@ -17,6 +17,11 @@ repository-code: "https://github.com/abouchard11/llm-safety-gate"
 url: "https://github.com/abouchard11/llm-safety-gate"
 license: Apache-2.0
 version: "1.0.0"
+doi: "10.5281/zenodo.23503132"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23503132"
+    description: "Concept DOI: resolves to the latest archived release on Zenodo"
 date-released: 2026-07-22
 keywords:
   - "llm"
