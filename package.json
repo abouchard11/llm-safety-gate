@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Fail-closed content-safety gate for LLM apps: majority-vote classification, parse-noise vs block-signal discrimination, per-item graceful degradation, and publish planning. Classifier-agnostic, zero dependencies.",
   "type": "module",
-  "license": "UNLICENSED",
+  "license": "Apache-2.0",
   "author": "Alex Bouchard (MidnightDev)",
   "keywords": [
     "llm",

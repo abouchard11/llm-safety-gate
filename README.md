@@ -121,7 +121,7 @@ Node 18+.
 
 ## Rights
 
-**Proprietary — all rights reserved. No license is granted.** See [LICENSE](LICENSE).
+**Apache License 2.0.** See [LICENSE](LICENSE).
 ## Related
 
 - [yapoleons-court](https://github.com/abouchard11/yapoleons-court) — shipped game that needs this fail-closed posture
