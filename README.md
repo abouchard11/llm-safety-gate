@@ -1,5 +1,7 @@
 # llm-safety-gate
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23503132.svg)](https://doi.org/10.5281/zenodo.23503132)
+
 **Fail-closed content safety for LLM apps.**
 
 The ugliest part of shipping a user-content feature on top of a vision/language model is that the
